@@ -10,6 +10,10 @@
     <div>
         admin
     </div>
+    <div>
+        <asp:TextBox ID="txtUserName" runat="server"></asp:TextBox>
+        <asp:TextBox ID="txtPasword" runat="server"></asp:TextBox>
+    </div>
     </form>
 </body>
 </html>
